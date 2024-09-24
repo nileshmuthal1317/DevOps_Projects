@@ -1,7 +1,5 @@
 # DevOps Project
 
-DevOps_Project/Automating Web Server Setup with Ansible 72be17c7bb5e48e59e2a61b6559429bb.md
-
 [**Automating Web Server Setup with Ansible**](DevOps_Project/AutomatingWebServerSetupwithAnsible.md)
 
 [**AWS VPC and EC2 Infrastructure with Terraform**](AWS%20VPC%20and%20EC2%20Infrastructure%20with%20Terraform%20bf8d55d7b8b24a2f833404e5728a0b77.md)
