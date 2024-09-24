@@ -1,6 +1,17 @@
 # DevOps Project
 
-[**Automating Web Server Setup with Ansible**](DevOps_Project/AutomatingWebServerSetupwithAnsible.md)
+**This Repository is Currently Under Development**
+
+## Introduction
+
+This repository contains a collection of projects focused on various DevOps tools. Each project is presented in a separate file, with detailed information available within that file.
+
+## Project List
+
+- **Automating Web Server Setup with Ansible**
+  - **Description**: This project automates the configuration and deployment of web servers using Ansible. The playbook installs and configures Apache, Nginx, and Java across multiple EC2 instances, ensuring consistency and reducing manual intervention. The automation is built for AWS infrastructure, focusing on deploying production-ready servers in minutes.
+  - **File**: [**Automating Web Server Setup with Ansible**](DevOps_Project/AutomatingWebServerSetupwithAnsible.md)
+
 
 [**AWS VPC and EC2 Infrastructure with Terraform**](AWS%20VPC%20and%20EC2%20Infrastructure%20with%20Terraform%20bf8d55d7b8b24a2f833404e5728a0b77.md)
 
